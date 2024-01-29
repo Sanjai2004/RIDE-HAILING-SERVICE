@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/ride-hailing-app.git
+git clone [https://github.com//ride-hailing-app.git](https://github.com/Sanjai2004/RIDE-HAILING-SERVICE/edit/main/README.md)
 Open the project in Android Studio.
 
 Connect the app to your Firebase project:
